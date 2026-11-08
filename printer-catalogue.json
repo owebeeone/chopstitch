@@ -1,0 +1,30 @@
+{
+  "schema": "chopstitch.printers/v1",
+  "scope": "plain-paper-single-sided-bordered",
+  "revision": 1,
+  "updatedAt": "2026-10-16",
+  "profiles": [
+    {
+      "id": "brother-hl-l2350dw", "name": "Brother HL-L2350DW", "aliases": ["Brother HLL2350DW"],
+      "revision": 1, "verifiedOn": "2026-10-15", "formats": ["a4", "letter", "legal"],
+      "portraitMargins": { "top": 4.23, "right": 4.23, "bottom": 4.23, "left": 4.23 },
+      "sourceUrl": "https://support.brother.com/g/s/id/htmldoc/printer/cv_hll2310d/asoce/html/GUID-1BBF837B-7708-4FCB-8F03-EBC668571B9F_25.html"
+    },
+    {
+      "id": "canon-ts3500", "name": "Canon PIXMA TS3500 series", "aliases": ["Canon TS3500"],
+      "revision": 1, "verifiedOn": "2026-10-15", "formats": ["a4", "letter", "legal"],
+      "portraitMargins": { "top": 3, "right": 3.4, "bottom": 5, "left": 3.4 },
+      "marginsByFormat": {
+        "letter": { "top": 3, "right": 6.3, "bottom": 5, "left": 6.4 },
+        "legal": { "top": 3, "right": 6.3, "bottom": 5, "left": 6.4 }
+      },
+      "sourceUrl": "https://ij.manual.canon/ij/webmanual/Manual/All/TS3500%20series/EN/UG/ug-196.html"
+    },
+    {
+      "id": "epson-et-2850", "name": "Epson EcoTank ET-2850", "aliases": ["Epson ET2850", "Epson ET-2850"],
+      "revision": 1, "verifiedOn": "2026-10-15", "formats": ["a4", "letter", "legal"],
+      "portraitMargins": { "top": 3, "right": 3, "bottom": 3, "left": 3 },
+      "sourceUrl": "https://download4.epson.biz/sec_pubs/et-2850_series/useg/en/manual.pdf"
+    }
+  ]
+}

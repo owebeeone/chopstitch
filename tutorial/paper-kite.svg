@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#faf7ee"/>
+<g fill="none" stroke="#d9d4c5" stroke-width="1"><path d="M0 100H1200M0 200H1200M0 300H1200M0 400H1200M0 500H1200M0 600H1200M200 0V700M400 0V700M600 0V700M800 0V700M1000 0V700"/></g>
+<path d="M130 340L380 140L820 140L1070 340L820 560L380 560Z" fill="#237782" stroke="#153c4a" stroke-width="8"/>
+<path d="M130 340H1070M380 140L600 340L820 140M380 560L600 340L820 560" fill="none" stroke="#a9dbd6" stroke-width="4"/>
+<circle cx="600" cy="340" r="66" fill="#edb65c"/>
+<text x="600" y="330" font-family="sans-serif" text-anchor="middle" font-size="20" fill="#153c4a">PAPER KITE</text>
+<text x="600" y="360" font-family="sans-serif" text-anchor="middle" font-size="15" fill="#153c4a">Chopstitch tutorial</text>
+<g font-family="sans-serif" text-anchor="middle" font-size="17" fill="#153c4a">
+<text x="105" y="325">1</text><text x="366" y="120">2</text><text x="834" y="120">3</text><text x="1095" y="325">4</text><text x="834" y="590">5</text><text x="366" y="590">6</text></g>
+<path d="M440 640H760M440 630V650M760 630V650" stroke="#153c4a" stroke-width="3"/>
+<text x="600" y="675" font-family="sans-serif" text-anchor="middle" font-size="18" fill="#153c4a">160 mm at 600 mm printed width</text>
+</svg>
